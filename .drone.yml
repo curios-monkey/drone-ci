@@ -1,10 +1,9 @@
 kind: pipeline
-type: docker
-name: default
-   
+name: node8
+
 steps:
 - name: test
-  image: alpine
+  image: node:8
   commands:
-  - echo hello
-  - echo world
+  - npm install
+  - npm test
